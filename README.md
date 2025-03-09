@@ -37,11 +37,15 @@ The application will start running on http://127.0.0.1:5000/. Open this URL in y
 ## Using the Application
 Open the web application in your browser.
 
+![Image](https://github.com/user-attachments/assets/137403b3-ae24-40d7-886a-0dffc8ec1ad4)
+
 You will see an interface to upload a doodle image.
 
 Draw image of a doodle (star, shoe, piano, house, popsicle, tshirt, umbrella, duck, airplane, or windmill).
 
 Click the "Predict" button.
+
+![Image](https://github.com/user-attachments/assets/6ad8017e-f26d-4693-a231-8ba9e2109de6)
 
 The application will display the predicted class of the doodle.
 
